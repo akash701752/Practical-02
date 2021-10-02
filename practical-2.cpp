@@ -21,9 +21,9 @@ for(i=2;i<=sqrt(num);i++)
   count =1 ;
  }
 }
-if(num<=1)
+if(num==1)
 {
- count = 0 ;
+ count = 1 ;
 }
 if(count==0)
 {
